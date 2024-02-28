@@ -4,6 +4,8 @@ Projeto Adventure Works
 
 **Objetivo:** 
 Criar um projeto de Engenharia de Dados, Ciência de Dados e Analise de Dados para uma Empresa do Setor de Varejo.
+(Projeto muito simular ao de Grandes Empresas do Setor de Comércio/Retail)
+(Típico projeto de Analytics para BI e Machine Learning)
 
 **ETAPAS** 
 
