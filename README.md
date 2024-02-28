@@ -19,6 +19,6 @@ Criar um projeto de Engenharia de Dados, Ciência de Dados e Analise de Dados pa
 - Databricks
 - Azure Data Factory
 - Microsoft PowerBI
-- ** CI/CD
+- Ferramenta de CI/CD
 
 Processos e Cultura de Engenharia de Dados
